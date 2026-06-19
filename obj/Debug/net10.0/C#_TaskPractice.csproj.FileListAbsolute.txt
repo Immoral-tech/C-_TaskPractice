@@ -1,0 +1,15 @@
+D:\Projects\.Net\C#_TaskPractice\bin\Debug\net10.0\C#_TaskPractice.exe
+D:\Projects\.Net\C#_TaskPractice\bin\Debug\net10.0\C#_TaskPractice.deps.json
+D:\Projects\.Net\C#_TaskPractice\bin\Debug\net10.0\C#_TaskPractice.runtimeconfig.json
+D:\Projects\.Net\C#_TaskPractice\bin\Debug\net10.0\C#_TaskPractice.dll
+D:\Projects\.Net\C#_TaskPractice\bin\Debug\net10.0\C#_TaskPractice.pdb
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.AssemblyInfoInputs.cache
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.AssemblyInfo.cs
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.sourcelink.json
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.dll
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\refint\C#_TaskPractice.dll
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.pdb
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\C#_TaskPractice.genruntimeconfig.cache
+D:\Projects\.Net\C#_TaskPractice\obj\Debug\net10.0\ref\C#_TaskPractice.dll
