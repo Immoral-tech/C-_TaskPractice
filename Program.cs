@@ -1,4 +1,5 @@
 ﻿using C__TaskPractice.Tasks.Task1;
+using C__TaskPractice.Tasks.Task2;
 
 
 // Задание 1. Консольный ввод-вывод.
@@ -8,3 +9,4 @@ Info.WriteInfo();
 
 // Задание 2. Приведение типов и парсинг.
 // Вариант 4. Время в пути Расстояние (км), скорость (км/ч) Повторный запрос ввода до успеха
+Console.WriteLine($"Время в пути: {Parsing.CalculateTime()}");

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2DBE7164-D4F1-D5D3-CE4E-3A04E709440C}|C#_TaskPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2DBE7164-D4F1-D5D3-CE4E-3A04E709440C}|C#_TaskPractice.csproj|d:\\projects\\.net\\c#_taskpractice\\tasks\\task2\\parsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBE7164-D4F1-D5D3-CE4E-3A04E709440C}|C#_TaskPractice.csproj|solutionrelative:tasks\\task2\\parsing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DBE7164-D4F1-D5D3-CE4E-3A04E709440C}|C#_TaskPractice.csproj|d:\\projects\\.net\\c#_taskpractice\\tasks\\task1\\writeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DBE7164-D4F1-D5D3-CE4E-3A04E709440C}|C#_TaskPractice.csproj|solutionrelative:tasks\\task1\\writeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Parsing.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net\\C#_TaskPractice\\Tasks\\Task2\\Parsing.cs",
+              "RelativeDocumentMoniker": "Tasks\\Task2\\Parsing.cs",
+              "ToolTip": "D:\\Projects\\.Net\\C#_TaskPractice\\Tasks\\Task2\\Parsing.cs",
+              "RelativeToolTip": "Tasks\\Task2\\Parsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T10:01:02.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WriteInfo.cs",
               "DocumentMoniker": "D:\\Projects\\.Net\\C#_TaskPractice\\Tasks\\Task1\\WriteInfo.cs",
               "RelativeDocumentMoniker": "Tasks\\Task1\\WriteInfo.cs",
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\.Net\\C#_TaskPractice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T09:41:50.985Z",
               "EditorCaption": ""
